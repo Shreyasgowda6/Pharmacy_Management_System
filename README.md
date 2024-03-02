@@ -82,10 +82,3 @@
      - Manage Personal Account
    
 -----------------------------------------------------------------------------------
-
-N/B: When adding New patient there are some validations in filling the forms 
-     For easy filling of forms use fake filler extension in chrome 
-     Fake Filler Extension Chrome link:https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo
-
---------------------------------------------------------------------------------------
-# Pharmacy_Management_System
