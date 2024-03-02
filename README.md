@@ -6,12 +6,12 @@
    
    
 
-<div> <img src="https://github.com/devhasibulislam/pharmacy-management-system/blob/master/screenshot/Admin%20Login.png" width="400" height="200" />
-<img src="https://github.com/devhasibulislam/pharmacy-management-system/blob/master/screenshot/Pharmacist.png" width="400" height="200" />
+<div> <img src="https://github.com/Shreyasgowda6/Pharmacy_Management_System/blob/main/screenshot/Home%20page.jpg" width="400" height="200" />
+<img src="https://github.com/Shreyasgowda6/Pharmacy_Management_System/blob/main/screenshot/Pharmacy%20Clerk%20dashboard.jpg" width="400" height="200" />
 </div>
-<div> <img src="https://github.com/devhasibulislam/pharmacy-management-system/blob/master/screenshot/Doctor%20Login.png" width="400" height="200" />
-<img src="https://github.com/devhasibulislam/pharmacy-management-system/blob/master/screenshot/Receptionist%20Login.png" width="400" height="200" />
-    <img src="https://github.com/devhasibulislam/pharmacy-management-system/blob/master/screenshot/Patient%20login.png" width="400" height="200" />
+<div> <img src="https://github.com/Shreyasgowda6/Pharmacy_Management_System/blob/main/screenshot/Doctor%20Dashboard.jpg" width="400" height="200" />
+<img src="https://github.com/Shreyasgowda6/Pharmacy_Management_System/blob/main/screenshot/Pharmacist%20dashboard.jpg" width="400" height="200" />
+    <img src="https://github.com/Shreyasgowda6/Pharmacy_Management_System/blob/main/screenshot/patient%20dashboard.png" width="400" height="200" />
 </div>
 
 ## Run these Commads
