@@ -1,4 +1,4 @@
-# PharmacyManagementSystem
+# Pharmacy Management System
 <h2>🔥Pharmacy Management System || Python Django || MySQL</h2>
   
   
